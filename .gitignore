@@ -1,4 +1,6 @@
 *
+!/public/
+!/public/*.*
 !/.gitignore
 !/readme.md
 !/slides.md
